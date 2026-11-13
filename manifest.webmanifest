@@ -1,0 +1,22 @@
+{
+  "name": "E Home Elektro-Kalkulator",
+  "short_name": "E Home",
+  "description": "Elektro-Kalkulation offline",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf2f7",
+  "theme_color": "#101b2b",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
